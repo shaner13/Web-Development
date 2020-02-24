@@ -1,21 +1,25 @@
 #block {
 
 	display:inline-block;
+	padding: 50px;
+	width: 250px;
+}
+
+figcaption{
+
+	display:inline-block;
 
 }
 
 img {
 
-	display:inline;
-	width:90px;
-	height:90px;
-
+	display:inline-block;
 }
+
 
 #text {
-
-	color:#00cc99;
+	
+	color:#6B9089;
 	font-weight: bold;
 }
-
 
